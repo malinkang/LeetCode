@@ -3,10 +3,10 @@
 ```java
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        for(int i = 0;i<numbers.length-1; i++){
-            int targetIndex=binarySearch(numbers,i+1,target-numbers[i]);
+        for(int i = 0;i< numbers.length - 1; i++){
+            int targetIndex = binarySearch(numbers,i + 1,target - numbers[i]);
             if( targetIndex > 0){
-                return new int[]{i+1,targetIndex + 1};
+                return new int[]{i + 1,targetIndex + 1};
             }
         }
         return null;
