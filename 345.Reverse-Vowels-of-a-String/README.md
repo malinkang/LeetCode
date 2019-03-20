@@ -1,0 +1,35 @@
+### [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+
+```java
+class Solution {
+    public String reverseVowels(String s) {
+        char[] array = s.toCharArray();
+        int i = 0;
+        int j = array.length - 1;
+        while(i < j){
+            //不是偶数i++ j--
+            if(!isVowel(array[i])){
+                i++;
+            }
+            if(!isVowel(array[j])){
+                j--;
+            }
+            //如果都是偶数进行交换
+            if(isVowel(array[i]) && isVowel(array[j])){
+                 char c = array[i];
+                 array[i] = array[j];
+                 array[j]= c;
+                 i++; 
+                 j--;
+            }
+        }
+
+        return new String(array);
+            
+    }
+    private boolean isVowel(char c){
+        return c =='a' || c =='e' || c =='i' || c =='o'|| c =='u' || 
+             c =='A' || c =='E' || c =='I' || c =='O'|| c =='U';
+    }
+}
+```
