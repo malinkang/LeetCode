@@ -1,4 +1,4 @@
-### [9.Reverse Integer](https://leetcode.com/problems/palindrome-number)||[Note](9.Palindrome-Number)
+### [9.Reverse Integer](https://leetcode.com/problems/palindrome-number)
 
 根据第7题可以将数字翻转，翻转后如果等于原来的数字则是回文数。
 

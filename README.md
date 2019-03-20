@@ -2,7 +2,7 @@
 |---|-----|--------|----|----------|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)||[Note](1.Two-Sum)|Easy|hash-table|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)||[Note](7.Reverse-Integer)|Easy||
-|9|[Reverse Integer](https://leetcode.com/problems/palindrome-number)||[Note](9.Palindrome-Number)|Easy||
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)||[Note](9.Palindrome-Number)|Easy||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)||[Note](14.Longest-Common-Prefix)|Easy||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)||[Note](14.Longest-Common-Prefix)|Easy||
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)||[Note](20.Valid-Parentheses)|Easy|stack|

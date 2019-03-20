@@ -1,6 +1,7 @@
+### [1.Two Sum](https://leetcode.com/problems/two-sum)
 
 最简单的方法就是遍历两次判断：
-### [1.Two Sum](https://leetcode.com/problems/two-sum)
+
 
 ```java
 class Solution {
