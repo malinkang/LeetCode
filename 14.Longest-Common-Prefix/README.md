@@ -1,4 +1,4 @@
-### [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+### [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 先以数组的第一个元素为前缀，然后遍历依次获取公共的字符串。
 

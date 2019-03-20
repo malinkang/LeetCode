@@ -1,4 +1,4 @@
-### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+### [20.Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 根据栈先进后出的特点，当遇到开括号时放入栈，当遇到闭括号时出栈，然后判断出栈的元素是否与比括号匹配。
 
