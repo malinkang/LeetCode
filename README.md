@@ -1,6 +1,6 @@
 LeetCode刷题一天一道题
 
-进度（20/1015)
+进度（22/1015)
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
@@ -19,7 +19,8 @@ LeetCode刷题一天一道题
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||[Note](88.Merge-Sorted-Array)|Easy||
 |202|[Happy-Number](https://leetcode.com/problems/happy-number/)||[Note](202.Happy-Number)|Easy||
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)||[Note](203.Remove-Linked-List-Elements)|Easy|LinkedList|
-|217|[217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||[Note](217.Contains-Duplicate)|Easy|HashTable|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||[Note](217.Contains-Duplicate)|Easy|HashTable|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)||[Note](219.Contains-Duplicate-II)|Easy|HashTable|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)||[Note](237.Delete-Node-in-a-Linked-List)|Easy|LinkedList|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)||[Note](167.Two-Sum-II-Input-array-is-sorted)|Easy|BinarySearch|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)||[Note](344.Reverse-String)|Easy|Two Pointers|
