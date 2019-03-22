@@ -13,15 +13,33 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        if(head==null){
-            return null;
+        if(head == null){
+            return null; //终止递归
         }
         int val = head.val;
-        while(head.next!=null && val == head.next.val){
+        while(head.next != null && val == head.next.val){
             head = head.next;
         }
-        head.next=deleteDuplicates(head.next);
+        head.next = deleteDuplicates(head.next);
         return head; 
     }
+}
+```
+
+另外一种解法，取重复的第一个为current，然后如果是重复的就跳过。
+
+```java
+//1->1->2->3->3
+public ListNode deleteDuplicates(ListNode head) {
+    ListNode current = head;
+    while (current != null && current.next != null) {
+        if (current.next.val == current.val) {
+            //跳过
+            current.next = current.next.next;
+        } else {
+            current = current.next;
+        }
+    }
+    return head;
 }
 ```
