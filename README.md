@@ -1,6 +1,6 @@
 LeetCode刷题一天一道题
 
-进度（22/1015)
+进度（23/1015)
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
