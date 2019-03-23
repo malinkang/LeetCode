@@ -19,6 +19,7 @@ LeetCode刷题一天一道题
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||[Note](88.Merge-Sorted-Array)|Easy||
 |202|[Happy-Number](https://leetcode.com/problems/happy-number/)||[Note](202.Happy-Number)|Easy||
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)||[Note](203.Remove-Linked-List-Elements)|Easy|LinkedList|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)||[Note](206.Reverse-Linked-List)|Easy|LinkedList|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||[Note](217.Contains-Duplicate)|Easy|HashTable|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)||[Note](219.Contains-Duplicate-II)|Easy|HashTable|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)||[Note](237.Delete-Node-in-a-Linked-List)|Easy|LinkedList|
