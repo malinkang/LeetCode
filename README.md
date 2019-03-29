@@ -1,11 +1,13 @@
 LeetCode刷题一天一道题
 
-进度（23/1015)
+进度（24/1015)
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)||[Note](1.Two-Sum)|Easy|HashTable|
+|6|[6.ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)||[Note](6.ZigZag-Conversion)|Hard||
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)||[Note](7.Reverse-Integer)|Easy||
+
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)||[Note](9.Palindrome-Number)|Easy||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)||[Note](13.Roman-to-Integer)|Easy||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)||[Note](14.Longest-Common-Prefix)|Easy||
@@ -27,3 +29,8 @@ LeetCode刷题一天一道题
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)||[Note](344.Reverse-String)|Easy|Two Pointers|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)||[Note](345.Reverse-Vowels-of-a-String)|Easy|Two Pointers|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)||[Note](704.Binary-Search)|Easy|BinarySearch|
+
+
+2*2 2*3 ... 2*i
+
+3*
