@@ -7,7 +7,6 @@ LeetCode刷题一天一道题
 |1|[Two Sum](https://leetcode.com/problems/two-sum)||[Note](1.Two-Sum)|Easy|HashTable|
 |6|[6.ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)||[Note](6.ZigZag-Conversion)|Hard||
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)||[Note](7.Reverse-Integer)|Easy||
-
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)||[Note](9.Palindrome-Number)|Easy||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)||[Note](13.Roman-to-Integer)|Easy||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)||[Note](14.Longest-Common-Prefix)|Easy||
