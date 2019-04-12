@@ -1,12 +1,13 @@
 LeetCode刷题一天一道题
 
-进度（25/1015)
+进度（27/1015)
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)||[Note](1.Two-Sum)|Easy|HashTable|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)||[Note](2.Add-Two-Numbers)|Easy|LinkedList|
-|6|[6.ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)||[Note](6.ZigZag-Conversion)|Hard||
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||[Note](3.Longest-Substring-Without-Repeating-Characters)|||
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)||[Note](6.ZigZag-Conversion)|Hard||
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)||[Note](7.Reverse-Integer)|Easy||
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)||[Note](9.Palindrome-Number)|Easy||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)||[Note](13.Roman-to-Integer)|Easy||
@@ -16,6 +17,7 @@ LeetCode刷题一天一道题
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||[Note](26.Remove-Duplicates-from-Sorted-Array)|Easy|Two Pointers|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)||[Note](27.Remove-Element)|Easy|Two Pointers|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)||[Note](38.Count-and-Say)|Easy|Two Pointers|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)||[Note](67.Add-Binary)|||
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)||[Note](82.Remove-Duplicates-from-Sorted-List-II)|Medium|LinkedList|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)||[Note](83.Remove-Duplicates-from-Sorted-List)|Easy|LinkedList|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||[Note](88.Merge-Sorted-Array)|Easy||
