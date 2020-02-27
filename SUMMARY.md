@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [26.Remove-Duplicates-from-Sorted-Array](26.Remove-Duplicates-from-Sorted-Array.md)
 
