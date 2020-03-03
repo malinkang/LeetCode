@@ -13,6 +13,7 @@
 * [21.合并两个有序链表](21.Merge-Two-Sorted-Lists.md)
 * [26.删除排序数组中的重复项](26.remove-duplicates-from-sorted-array.md)
 * [27.移除元素](27.remove-element.md)
+* [34.在排序数组中查找元素的第一个和最后一个位置](34.find-first-and-last-position-of-element-in-sorted-array.md)
 * [38.外观数列](38.Count-and-Say.md)
 * [67.二进制求和](67.Add-Binary.md)
 * [82.删除排序链表中的重复元素II](82.Remove-Duplicates-from-Sorted-List-II.md)
