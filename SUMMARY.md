@@ -20,6 +20,7 @@
 * [82.删除排序链表中的重复元素II](82.Remove-Duplicates-from-Sorted-List-II.md)
 * [83.删除排序链表中的重复元素](83.Remove-Duplicates-from-Sorted-List.md)
 * [88.合并两个有序数组](88.Merge-Sorted-Array.md)
+* [118.杨辉三角](118.pascals-triangle.md)
 * [167.两数之和 II - 输入有序数组](167.Two-Sum-II-Input-array-is-sorted.md)
 * [202.快乐数](202.Happy-Number.md)
 * [203.移除链表元素](203.remove-linked-list-elements.md)
