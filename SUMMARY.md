@@ -38,3 +38,7 @@
 * [1103.分糖果 II](1103.distribute-candies-to-people.md)
 * [1160.拼写单词](1160.find-words-that-can-be-formed-by-characters.md)
 
+## 剑指 Offer <a id="lcof"></a>
+
+* [54. 二叉搜索树的第k大节点](lcof/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
+
