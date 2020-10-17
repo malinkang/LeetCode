@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="613933ed-0242-4236-9989-5954a037a67e" name="Default Changelist" comment="" />
+    <list default="true" id="613933ed-0242-4236-9989-5954a037a67e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/malinkang/leetcode/HeightChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/malinkang/leetcode/SatisfiabilityOfEqualityEquations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/malinkang/leetcode/Solution45.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,21 +55,43 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XkR0VMCK5OsyI6SQwfN1lOrj9u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="cn.malinkang.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveElement">
+  <component name="RunManager" selected="Application.HeightChecker">
+    <configuration name="HeightChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.malinkang.leetcode.HeightChecker" />
+      <module name="leetcode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.malinkang.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.malinkang.leetcode.RemoveDuplicatesFromSortedArray" />
       <module name="leetcode.main" />
@@ -60,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.malinkang.leetcode.SetTest" />
+    <configuration name="SatisfiabilityOfEqualityEquations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.malinkang.leetcode.SatisfiabilityOfEqualityEquations" />
       <module name="leetcode.main" />
       <extension name="coverage">
         <pattern>
@@ -73,21 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringToIntegerAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.malinkang.leetcode.StringToIntegerAtoi" />
-      <module name="leetcode.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.malinkang.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.malinkang.leetcode.ThreeSum" />
+    <configuration name="Solution45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.malinkang.leetcode.Solution45" />
       <module name="leetcode.main" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeightChecker" />
+        <item itemvalue="Application.Solution45" />
+        <item itemvalue="Application.SatisfiabilityOfEqualityEquations" />
         <item itemvalue="Application.RemoveElement" />
         <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
-        <item itemvalue="Application.SetTest" />
-        <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.StringToIntegerAtoi" />
       </list>
     </recent_temporary>
   </component>
@@ -119,53 +164,71 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581587882884</updated>
+      <workItem from="1591582182123" duration="5907000" />
+      <workItem from="1591666096604" duration="3817000" />
+      <workItem from="1592269752573" duration="2878000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="686" y="426" width="548" height="326" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582859751201">
+    <state x="695" y="545" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591582255423">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state x="695" y="545" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1126/-1680.23.1680.1027@0.23.1920.1126" timestamp="1591582255423" />
+    <state x="818" y="630" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591583540301">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state x="818" y="630" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1920.1126/-1680.23.1680.1027@0.23.1920.1126" timestamp="1591583540301" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom" timestamp="1592292810244">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="686" y="383" width="548" height="326" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1581855985435" />
-    <state x="686" y="426" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1200/-1680.184.1680.1050@0.0.1920.1200" timestamp="1582859751201" />
-    <state width="1864" height="291" key="GridCell.Tab.0.bottom" timestamp="1583147305446">
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1200/-1680.0.1680.1050@0.0.1920.1200" timestamp="1592292810244" />
+    <state width="1878" height="405" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1591668017220" />
+    <state width="1358" height="405" key="GridCell.Tab.0.bottom/0.23.1920.1126/-1680.23.1680.1027@0.23.1920.1126" timestamp="1591587538816" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center" timestamp="1592292810242">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1864" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582550134289" />
-    <state width="1864" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1200/-1680.184.1680.1050@0.0.1920.1200" timestamp="1583144442639" />
-    <state width="1864" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1200/-1680.207.1680.1027@0.0.1920.1200" timestamp="1583147305446" />
-    <state width="1864" height="291" key="GridCell.Tab.0.bottom/0.23.1920.1006@0.23.1920.1006" timestamp="1582009958211" />
-    <state width="1864" height="291" key="GridCell.Tab.0.center" timestamp="1583147305441">
+    <state width="1878" height="376" key="GridCell.Tab.0.center/0.0.1920.1200/-1680.0.1680.1050@0.0.1920.1200" timestamp="1592292810242" />
+    <state width="1878" height="405" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1591668017219" />
+    <state width="1358" height="405" key="GridCell.Tab.0.center/0.23.1920.1126/-1680.23.1680.1027@0.23.1920.1126" timestamp="1591587538815" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left" timestamp="1592292810242">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1864" height="291" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582550134288" />
-    <state width="1864" height="291" key="GridCell.Tab.0.center/0.0.1920.1200/-1680.184.1680.1050@0.0.1920.1200" timestamp="1583144442637" />
-    <state width="1864" height="291" key="GridCell.Tab.0.center/0.0.1920.1200/-1680.207.1680.1027@0.0.1920.1200" timestamp="1583147305441" />
-    <state width="1864" height="291" key="GridCell.Tab.0.center/0.23.1920.1006@0.23.1920.1006" timestamp="1582009958210" />
-    <state width="1864" height="291" key="GridCell.Tab.0.left" timestamp="1583147305440">
+    <state width="1878" height="376" key="GridCell.Tab.0.left/0.0.1920.1200/-1680.0.1680.1050@0.0.1920.1200" timestamp="1592292810242" />
+    <state width="1878" height="405" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1591668017217" />
+    <state width="1358" height="405" key="GridCell.Tab.0.left/0.23.1920.1126/-1680.23.1680.1027@0.23.1920.1126" timestamp="1591587538815" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right" timestamp="1592292810243">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1864" height="291" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582550134287" />
-    <state width="1864" height="291" key="GridCell.Tab.0.left/0.0.1920.1149/-1680.207.1680.1027@0.0.1920.1149" timestamp="1582681114288" />
-    <state width="1864" height="291" key="GridCell.Tab.0.left/0.0.1920.1200/-1680.184.1680.1050@0.0.1920.1200" timestamp="1583144442636" />
-    <state width="1864" height="291" key="GridCell.Tab.0.left/0.0.1920.1200/-1680.207.1680.1027@0.0.1920.1200" timestamp="1583147305440" />
-    <state width="1864" height="291" key="GridCell.Tab.0.left/0.23.1920.1006@0.23.1920.1006" timestamp="1582009958210" />
-    <state width="1864" height="291" key="GridCell.Tab.0.right" timestamp="1583147305445">
+    <state width="1878" height="376" key="GridCell.Tab.0.right/0.0.1920.1200/-1680.0.1680.1050@0.0.1920.1200" timestamp="1592292810243" />
+    <state width="1878" height="405" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1591668017219" />
+    <state width="1358" height="405" key="GridCell.Tab.0.right/0.23.1920.1126/-1680.23.1680.1027@0.23.1920.1126" timestamp="1591587538816" />
+    <state x="469" y="239" key="SettingsEditor" timestamp="1591591731835">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1864" height="291" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582550134289" />
-    <state width="1864" height="291" key="GridCell.Tab.0.right/0.0.1920.1200/-1680.184.1680.1050@0.0.1920.1200" timestamp="1583144442638" />
-    <state width="1864" height="291" key="GridCell.Tab.0.right/0.0.1920.1200/-1680.207.1680.1027@0.0.1920.1200" timestamp="1583147305445" />
-    <state width="1864" height="291" key="GridCell.Tab.0.right/0.23.1920.1006@0.23.1920.1006" timestamp="1582009958210" />
-    <state x="622" y="227" width="675" height="655" key="StructurePopup" timestamp="1582548656869">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="469" y="239" key="SettingsEditor/0.0.1920.1200/-1680.0.1680.1050@0.0.1920.1200" timestamp="1591591731835" />
+    <state x="518" y="251" width="1200" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591587322832">
+      <screen x="0" y="23" width="1920" height="1126" />
     </state>
-    <state x="622" y="227" width="675" height="655" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1582548656869" />
-    <state x="558" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1583144239193">
-      <screen x="0" y="0" width="1920" height="1200" />
+    <state x="518" y="251" width="1200" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1920.1126/-1680.23.1680.1027@0.23.1920.1126" timestamp="1591587322832" />
+    <state x="625" y="264" key="search.everywhere.popup" timestamp="1591595793983">
+      <screen x="0" y="23" width="1920" height="1126" />
     </state>
-    <state x="558" y="319" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582546214335" />
-    <state x="558" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1200/-1680.184.1680.1050@0.0.1920.1200" timestamp="1583144239193" />
-    <state x="558" y="320" key="com.intellij.ide.util.TipDialog/0.23.1920.1006@0.23.1920.1006" timestamp="1581587907758" />
+    <state x="625" y="264" key="search.everywhere.popup/0.23.1920.1126/-1680.23.1680.1027@0.23.1920.1126" timestamp="1591595793983" />
   </component>
 </project>
