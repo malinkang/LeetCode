@@ -29,6 +29,7 @@
 * [206.反转链表](206.reverse-linked-list.md)
 * [217.存在重复元素](217.contains-duplicate.md)
 * [219.存在重复元素 II](219.contains-duplicate-ii.md)
+* [226. 翻转二叉树](invert-binary-tree.md)
 * [237.删除链表中的节点](237.delete-node-in-a-linked-list.md)
 * [344.反转字符串](344.reverse-string.md)
 * [345.反转字符串中的元音字母](345.reverse-vowels-of-a-string.md)
@@ -40,5 +41,7 @@
 
 ## 剑指 Offer <a id="lcof"></a>
 
+* [03. 数组中重复的数字](lcof/03.-shu-zu-zhong-zhong-fu-de-shu-zi.md)
+* [27. 二叉树的镜像](lcof/er-cha-shu-de-jing-xiang-lcof.md)
 * [54. 二叉搜索树的第k大节点](lcof/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
 
