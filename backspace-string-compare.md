@@ -96,7 +96,7 @@ class Solution {
 
 这样，我们定义两个指针，分别指向两字符串的末尾。每次我们让两指针逆序地遍历两字符串，直到两字符串能够各自确定一个字符，然后将这两个字符进行比较。重复这一过程直到找到的两个字符不相等，或遍历完字符串为止。
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 ```java
 class Solution {
