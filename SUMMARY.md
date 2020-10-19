@@ -36,12 +36,14 @@
 * [589. N叉树的前序遍历](n-ary-tree-preorder-traversal.md)
 * [704.二分查找](704.binary-search.md)
 * [836.矩形重叠](836.rectangle-overlap.md)
+* [844. 比较含退格的字符串](backspace-string-compare.md)
 * [1103.分糖果 II](1103.distribute-candies-to-people.md)
 * [1160.拼写单词](1160.find-words-that-can-be-formed-by-characters.md)
 
 ## 剑指 Offer <a id="lcof"></a>
 
-* [03. 数组中重复的数字](lcof/03.-shu-zu-zhong-zhong-fu-de-shu-zi.md)
+* [03. 数组中重复的数字](lcof/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
+* [06. 从尾到头打印链表](lcof/06.-cong-wei-dao-tou-da-yin-lian-biao.md)
 * [27. 二叉树的镜像](lcof/er-cha-shu-de-jing-xiang-lcof.md)
 * [54. 二叉搜索树的第k大节点](lcof/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
 
