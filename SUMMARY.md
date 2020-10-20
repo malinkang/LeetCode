@@ -21,9 +21,15 @@
 * [82.删除排序链表中的重复元素II](82.remove-duplicates-from-sorted-list-ii.md)
 * [83.删除排序链表中的重复元素](83.remove-duplicates-from-sorted-list.md)
 * [88.合并两个有序数组](88.merge-sorted-array.md)
+* [94. 二叉树的中序遍历](94.binary-tree-inorder-traversal.md)
 * [118.杨辉三角](118.pascals-triangle.md)
 * [119.杨辉三角 II](119.pascals-triangle-ii.md)
+<<<<<<< HEAD
 * [141.环形链表](141.linked-list-cycle.md)
+=======
+* [144. 二叉树的前序遍历](144.binary-tree-preorder-traversal.md)
+* [145. 二叉树的后序遍历](145.binary-tree-postorder-traversal.md)
+>>>>>>> 4c70233b4c6202796de849bbe18793f987fe425e
 * [169.多数元素](169.majority-element.md)
 * [167.两数之和 II - 输入有序数组](167.two-sum-ii-input-array-is-sorted.md)
 * [202.快乐数](202.happy-number.md)
@@ -35,6 +41,7 @@
 * [237.删除链表中的节点](237.delete-node-in-a-linked-list.md)
 * [344.反转字符串](344.reverse-string.md)
 * [345.反转字符串中的元音字母](345.reverse-vowels-of-a-string.md)
+* [349. 两个数组的交集](349.intersection-of-two-arrays.md)
 * [589. N叉树的前序遍历](589.n-ary-tree-preorder-traversal.md)
 * [704.二分查找](704.binary-search.md)
 * [836.矩形重叠](836.rectangle-overlap.md)
@@ -48,4 +55,5 @@
 * [06. 从尾到头打印链表](lcof/06.-cong-wei-dao-tou-da-yin-lian-biao.md)
 * [27. 二叉树的镜像](lcof/er-cha-shu-de-jing-xiang-lcof.md)
 * [54. 二叉搜索树的第k大节点](lcof/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
+* [55 - I. 二叉树的深度](lcof/55-i.-er-cha-shu-de-shen-du.md)
 
