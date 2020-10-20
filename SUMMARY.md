@@ -51,5 +51,5 @@
 * [06. 从尾到头打印链表](lcof/06.-cong-wei-dao-tou-da-yin-lian-biao.md)
 * [27. 二叉树的镜像](lcof/er-cha-shu-de-jing-xiang-lcof.md)
 * [54. 二叉搜索树的第k大节点](lcof/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
-* [55 - I. 二叉树的深度](lcof/55-i.-er-cha-shu-de-shen-du.md)
+* [55 - I. 二叉树的深度](lcof/er-cha-shu-de-shen-du-lcof.md)
 
