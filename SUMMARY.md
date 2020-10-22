@@ -49,9 +49,11 @@
 
 ## 剑指 Offer <a id="lcof"></a>
 
-* [03. 数组中重复的数字](lcof/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
+* [03. 数组中重复的数字](lcof/03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
 * [06. 从尾到头打印链表](lcof/06.-cong-wei-dao-tou-da-yin-lian-biao.md)
-* [27. 二叉树的镜像](lcof/er-cha-shu-de-jing-xiang-lcof.md)
-* [54. 二叉搜索树的第k大节点](lcof/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
-* [55 - I. 二叉树的深度](lcof/er-cha-shu-de-shen-du-lcof.md)
+* [27. 二叉树的镜像](lcof/27.er-cha-shu-de-jing-xiang-lcof.md)
+* [32 - I. 从上到下打印二叉树](lcof/32-i.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.md)
+* [32 - II. 从上到下打印二叉树 II](lcof/32-ii.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.md)
+* [54. 二叉搜索树的第k大节点](lcof/54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
+* [55 - I. 二叉树的深度](lcof/55-i.er-cha-shu-de-shen-du-lcof.md)
 
