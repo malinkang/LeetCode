@@ -22,14 +22,12 @@
 * [83.删除排序链表中的重复元素](83.remove-duplicates-from-sorted-list.md)
 * [88.合并两个有序数组](88.merge-sorted-array.md)
 * [94. 二叉树的中序遍历](94.binary-tree-inorder-traversal.md)
+* [102. 二叉树的层序遍历](102.binary-tree-level-order-traversal.md)
+* [107. 二叉树的层次遍历 II](107.binary-tree-level-order-traversal-ii.md)
 * [118.杨辉三角](118.pascals-triangle.md)
 * [119.杨辉三角 II](119.pascals-triangle-ii.md)
-<<<<<<< HEAD
-* [141.环形链表](141.linked-list-cycle.md)
-=======
 * [144. 二叉树的前序遍历](144.binary-tree-preorder-traversal.md)
 * [145. 二叉树的后序遍历](145.binary-tree-postorder-traversal.md)
->>>>>>> 4c70233b4c6202796de849bbe18793f987fe425e
 * [169.多数元素](169.majority-element.md)
 * [167.两数之和 II - 输入有序数组](167.two-sum-ii-input-array-is-sorted.md)
 * [202.快乐数](202.happy-number.md)
