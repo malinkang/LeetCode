@@ -51,6 +51,8 @@
 
 * [03. 数组中重复的数字](lcof/03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
 * [06. 从尾到头打印链表](lcof/06.-cong-wei-dao-tou-da-yin-lian-biao.md)
+* [07. 重建二叉树](lcof/07.chong-jian-er-cha-shu-lcof.md)
+* [22. 链表中倒数第k个节点](lcof/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
 * [27. 二叉树的镜像](lcof/27.er-cha-shu-de-jing-xiang-lcof.md)
 * [32 - I. 从上到下打印二叉树](lcof/32-i.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.md)
 * [32 - II. 从上到下打印二叉树 II](lcof/32-ii.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.md)
