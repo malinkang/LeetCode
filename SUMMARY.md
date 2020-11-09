@@ -10,6 +10,7 @@
 * [11. 盛最多水的容器](11.container-with-most-water.md)
 * [13.罗马数字转整数](13.roman-to-integer.md)
 * [14.最长公共前缀](14.longest-common-prefix.md)
+* [19. 删除链表的倒数第N个节点](19.remove-nth-node-from-end-of-list.md)
 * [20.有效的括号](20.valid-parentheses.md)
 * [21.合并两个有序链表](21.merge-two-sorted-lists.md)
 * [26.删除排序数组中的重复项](26.remove-duplicates-from-sorted-array.md)
@@ -22,9 +23,14 @@
 * [83.删除排序链表中的重复元素](83.remove-duplicates-from-sorted-list.md)
 * [88.合并两个有序数组](88.merge-sorted-array.md)
 * [94. 二叉树的中序遍历](94.binary-tree-inorder-traversal.md)
+* [102. 二叉树的层序遍历](102.binary-tree-level-order-traversal.md)
+* [107. 二叉树的层次遍历 II](107.binary-tree-level-order-traversal-ii.md)
 * [118.杨辉三角](118.pascals-triangle.md)
 * [119.杨辉三角 II](119.pascals-triangle-ii.md)
+<<<<<<< HEAD
 * [141.环形链表](141.linked-list-cycle.md)
+=======
+>>>>>>> 4a501f066a7745a457e3154fd04a3dead48252bc
 * [144. 二叉树的前序遍历](144.binary-tree-preorder-traversal.md)
 * [145. 二叉树的后序遍历](145.binary-tree-postorder-traversal.md)
 * [169.多数元素](169.majority-element.md)
@@ -48,9 +54,21 @@
 
 ## 剑指 Offer <a id="lcof"></a>
 
-* [03. 数组中重复的数字](lcof/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
+* [03. 数组中重复的数字](lcof/03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
 * [06. 从尾到头打印链表](lcof/06.-cong-wei-dao-tou-da-yin-lian-biao.md)
+<<<<<<< HEAD
 * [27. 二叉树的镜像](lcof/er-cha-shu-de-jing-xiang-lcof.md)
 * [54. 二叉搜索树的第k大节点](lcof/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
 * [55 - I. 二叉树的深度](lcof/55-i.-er-cha-shu-de-shen-du.md)
+=======
+* [07. 重建二叉树](lcof/07.chong-jian-er-cha-shu-lcof.md)
+* [22. 链表中倒数第k个节点](lcof/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
+* [25. 合并两个排序的链表](lcof/25.-he-bing-liang-ge-pai-xu-de-lian-biao.md)
+* [26. 树的子结构](lcof/26.shu-de-zi-jie-gou-lcof.md)
+* [27. 二叉树的镜像](lcof/27.er-cha-shu-de-jing-xiang-lcof.md)
+* [32 - I. 从上到下打印二叉树](lcof/32-i.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.md)
+* [32 - II. 从上到下打印二叉树 II](lcof/32-ii.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.md)
+* [54. 二叉搜索树的第k大节点](lcof/54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
+* [55 - I. 二叉树的深度](lcof/55-i.er-cha-shu-de-shen-du-lcof.md)
+>>>>>>> 4a501f066a7745a457e3154fd04a3dead48252bc
 
