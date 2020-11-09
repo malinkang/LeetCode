@@ -14,8 +14,10 @@
 
 ## 链表
 
-* [141.环形链表](https://github.com/malinkang/LeetCode/tree/1eccd34af18433f38fe82fffc65649eb83e1d4b5/141.linked-list-cycle.md)
+* [19.删除链表的倒数第N个节点](19.remove-nth-node-from-end-of-list.md)
+* [141.环形链表](141.linked-list-cycle.md)
 * [206.反转链表](206.reverse-linked-list.md)
+* [剑指 Offer 22. 链表中倒数第k个节点](lcof/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
 
 ## 树
 
