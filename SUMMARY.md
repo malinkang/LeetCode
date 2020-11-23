@@ -52,8 +52,9 @@
 ## 剑指 Offer <a id="lcof"></a>
 
 * [03. 数组中重复的数字](lcof/03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
-* [06. 从尾到头打印链表](lcof/06.-cong-wei-dao-tou-da-yin-lian-biao.md)
+* [06. 从尾到头打印链表](lcof/06.cong-wei-dao-tou-da-yin-lian-biao.md)
 * [07. 重建二叉树](lcof/07.chong-jian-er-cha-shu-lcof.md)
+* [15. 二进制中1的个数](lcof/15.er-jin-zhi-zhong-1de-ge-shu-lcof.md)
 * [22. 链表中倒数第k个节点](lcof/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
 * [25. 合并两个排序的链表](lcof/25.-he-bing-liang-ge-pai-xu-de-lian-biao.md)
 * [26. 树的子结构](lcof/26.shu-de-zi-jie-gou-lcof.md)
