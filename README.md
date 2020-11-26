@@ -29,3 +29,17 @@
 * [剑指 Offer 54. 二叉搜索树的第k大节点](lcof/54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
 * [剑指 Offer 55 - I. 二叉树的深度](lcof/55-i.er-cha-shu-de-shen-du-lcof.md)
 
+## 二分查找
+
+* [34.在排序数组中查找元素的第一个和最后一个位置](34.find-first-and-last-position-of-element-in-sorted-array.md)
+* [35.搜索插入位置](35.search-insert-position.md)
+* [167.两数之和 II - 输入有序数组](167.two-sum-ii-input-array-is-sorted.md)
+* [704.二分查找](704.binary-search.md)
+* [744. 寻找比目标字母大的最小字母](744.find-smallest-letter-greater-than-target.md)
+* [剑指 Offer 11. 旋转数组的最小数字](lcof/11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.md)
+* [剑指 Offer 53 - II. 0～n-1中缺失的数字](lcof/que-shi-de-shu-zi-lcof.md)
+
+## 位运算
+
+
+

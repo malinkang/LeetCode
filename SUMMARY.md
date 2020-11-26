@@ -16,6 +16,7 @@
 * [26.删除排序数组中的重复项](26.remove-duplicates-from-sorted-array.md)
 * [27.移除元素](27.remove-element.md)
 * [34.在排序数组中查找元素的第一个和最后一个位置](34.find-first-and-last-position-of-element-in-sorted-array.md)
+* [35.搜索插入位置](35.search-insert-position.md)
 * [38.外观数列](38.count-and-say.md)
 * [66.加一](66.plus-one.md)
 * [67.二进制求和](67.add-binary.md)
@@ -44,6 +45,7 @@
 * [349. 两个数组的交集](349.intersection-of-two-arrays.md)
 * [589. N叉树的前序遍历](589.n-ary-tree-preorder-traversal.md)
 * [704.二分查找](704.binary-search.md)
+* [744. 寻找比目标字母大的最小字母](744.find-smallest-letter-greater-than-target.md)
 * [836.矩形重叠](836.rectangle-overlap.md)
 * [844. 比较含退格的字符串](backspace-string-compare.md)
 * [1103.分糖果 II](1103.distribute-candies-to-people.md)
@@ -52,15 +54,32 @@
 ## 剑指 Offer <a id="lcof"></a>
 
 * [03. 数组中重复的数字](lcof/03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
+
 * [06. 从尾到头打印链表](lcof/06.cong-wei-dao-tou-da-yin-lian-biao.md)
+
 * [07. 重建二叉树](lcof/07.chong-jian-er-cha-shu-lcof.md)
+
+* [11. 旋转数组的最小数字](lcof/11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.md)
+
 * [15. 二进制中1的个数](lcof/15.er-jin-zhi-zhong-1de-ge-shu-lcof.md)
+
 * [22. 链表中倒数第k个节点](lcof/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
+
 * [25. 合并两个排序的链表](lcof/25.-he-bing-liang-ge-pai-xu-de-lian-biao.md)
+
 * [26. 树的子结构](lcof/26.shu-de-zi-jie-gou-lcof.md)
+
 * [27. 二叉树的镜像](lcof/27.er-cha-shu-de-jing-xiang-lcof.md)
+
 * [32 - I. 从上到下打印二叉树](lcof/32-i.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.md)
+
 * [32 - II. 从上到下打印二叉树 II](lcof/32-ii.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.md)
+
+* [53 - II. 0～n-1中缺失的数字](lcof/que-shi-de-shu-zi-lcof.md)
+
 * [54. 二叉搜索树的第k大节点](lcof/54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
+
 * [55 - I. 二叉树的深度](lcof/55-i.er-cha-shu-de-shen-du-lcof.md)
+
+  
 
