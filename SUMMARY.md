@@ -20,6 +20,7 @@
 * [38.外观数列](38.count-and-say.md)
 * [66.加一](66.plus-one.md)
 * [67.二进制求和](67.add-binary.md)
+* [70.爬楼梯](70.climbing-stairs.md)
 * [82.删除排序链表中的重复元素II](82.remove-duplicates-from-sorted-list-ii.md)
 * [83.删除排序链表中的重复元素](83.remove-duplicates-from-sorted-list.md)
 * [88.合并两个有序数组](88.merge-sorted-array.md)
@@ -38,7 +39,7 @@
 * [206.反转链表](206.reverse-linked-list.md)
 * [217.存在重复元素](217.contains-duplicate.md)
 * [219.存在重复元素 II](219.contains-duplicate-ii.md)
-* [226. 翻转二叉树](invert-binary-tree.md)
+* [226. 翻转二叉树](226.invert-binary-tree.md)
 * [237.删除链表中的节点](237.delete-node-in-a-linked-list.md)
 * [344.反转字符串](344.reverse-string.md)
 * [345.反转字符串中的元音字母](345.reverse-vowels-of-a-string.md)
@@ -49,6 +50,7 @@
 * [836.矩形重叠](836.rectangle-overlap.md)
 * [844. 比较含退格的字符串](backspace-string-compare.md)
 * [1103.分糖果 II](1103.distribute-candies-to-people.md)
+* [1137.第 N 个泰波那契数](1137.n-th-tribonacci-number.md)
 * [1160.拼写单词](1160.find-words-that-can-be-formed-by-characters.md)
 
 ## 剑指 Offer <a id="lcof"></a>
