@@ -65,6 +65,8 @@
 
 * [15. 二进制中1的个数](lcof/15.er-jin-zhi-zhong-1de-ge-shu-lcof.md)
 
+* [21.调整数组顺序使奇数位于偶数前面](21.tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md)
+
 * [22. 链表中倒数第k个节点](lcof/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
 
 * [25. 合并两个排序的链表](lcof/25.-he-bing-liang-ge-pai-xu-de-lian-biao.md)
@@ -76,6 +78,8 @@
 * [32 - I. 从上到下打印二叉树](lcof/32-i.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.md)
 
 * [32 - II. 从上到下打印二叉树 II](lcof/32-ii.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.md)
+
+* [50. 第一个只出现一次的字符](50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
 
 * [53 - II. 0～n-1中缺失的数字](lcof/que-shi-de-shu-zi-lcof.md)
 
