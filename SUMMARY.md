@@ -61,11 +61,21 @@
 
 * [07. 重建二叉树](lcof/07.chong-jian-er-cha-shu-lcof.md)
 
+* [10- I. 斐波那契数列](lcof/10-i.fei-bo-na-qi-shu-lie-lcof.md)
+
+* [剑指 Offer 10- II. 青蛙跳台阶问题](lcof/10-ii.qing-wa-tiao-tai-jie-wen-ti-lcof.md)
+
 * [11. 旋转数组的最小数字](lcof/11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.md)
 
 * [15. 二进制中1的个数](lcof/15.er-jin-zhi-zhong-1de-ge-shu-lcof.md)
 
-* [21.调整数组顺序使奇数位于偶数前面](21.tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md)
+* [16. 数值的整数次方](lcof/16.shu-zhi-de-zheng-shu-ci-fang-lcof.md)
+
+* [17. 打印从1到最大的n位数](lcof/17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.md)
+
+* [18.删除链表的节点](lcof/18.shan-chu-lian-biao-de-jie-dian-lcof.md)
+
+* [21.调整数组顺序使奇数位于偶数前面](lcof/21.tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md)
 
 * [22. 链表中倒数第k个节点](lcof/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
 
@@ -75,11 +85,15 @@
 
 * [27. 二叉树的镜像](lcof/27.er-cha-shu-de-jing-xiang-lcof.md)
 
+* [28. 对称的二叉树](lcof/28.dui-cheng-de-er-cha-shu-lcof.md)
+
 * [32 - I. 从上到下打印二叉树](lcof/32-i.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.md)
 
 * [32 - II. 从上到下打印二叉树 II](lcof/32-ii.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.md)
 
-* [50. 第一个只出现一次的字符](50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
+* [50. 第一个只出现一次的字符](lcof/50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
+
+* [52. 两个链表的第一个公共节点](lcof/52. liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.md)
 
 * [53 - II. 0～n-1中缺失的数字](lcof/que-shi-de-shu-zi-lcof.md)
 
