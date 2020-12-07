@@ -101,5 +101,7 @@
 
 * [55 - I. 二叉树的深度](lcof/55-i.er-cha-shu-de-shen-du-lcof.md)
 
+* [55 - II. 平衡二叉树](lcof/55-ii.ping-heng-er-cha-shu-lcof.md)
+
   
 
