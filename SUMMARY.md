@@ -18,6 +18,7 @@
 * [34.在排序数组中查找元素的第一个和最后一个位置](34.find-first-and-last-position-of-element-in-sorted-array.md)
 * [35.搜索插入位置](35.search-insert-position.md)
 * [38.外观数列](38.count-and-say.md)
+* [51.N 皇后](51.n-queens.md)
 * [66.加一](66.plus-one.md)
 * [67.二进制求和](67.add-binary.md)
 * [70.爬楼梯](70.climbing-stairs.md)
