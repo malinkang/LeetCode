@@ -5,6 +5,7 @@
 * [11.盛最多水的容器](11.container-with-most-water.md)
 * [26.删除排序数组中的重复项](26.remove-duplicates-from-sorted-array.md)
 * [66.加一](66.plus-one.md)
+* [剑指 Offer 29.顺时针打印矩阵](29.shun-shi-zhen-da-yin-ju-zhen-lcof.md)
 
 ## 栈
 
@@ -53,6 +54,7 @@
 * [1137.第 N 个泰波那契数](1137.n-th-tribonacci-number.md)
 * [剑指 Offer 10- I. 斐波那契数列](lcof/10-i.fei-bo-na-qi-shu-lie-lcof.md)
 * [剑指 Offer 10- II. 青蛙跳台阶问题](lcof/10-ii.qing-wa-tiao-tai-jie-wen-ti-lcof.md)
+* 
 
 ## 回溯
 
