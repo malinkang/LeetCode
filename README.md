@@ -31,7 +31,7 @@
 * [589. N叉树的前序遍历](589.n-ary-tree-preorder-traversal.md)
 * [剑指 Offer 27. 二叉树的镜像](lcof/27.er-cha-shu-de-jing-xiang-lcof.md)
 * [剑指 Offer 28. 对称的二叉树](lcof/28.dui-cheng-de-er-cha-shu-lcof.md)
-* [剑指 Offer 33.二叉搜索树的后序遍历序列](33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.md)
+* [剑指 Offer 33.二叉搜索树的后序遍历序列](lcof/33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.md)
 * [剑指 Offer 54. 二叉搜索树的第k大节点](lcof/54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
 * [剑指 Offer 55 - I. 二叉树的深度](lcof/55-i.er-cha-shu-de-shen-du-lcof.md)
 * [剑指 Offer 55 - II. 平衡二叉树](lcof/55-ii.ping-heng-er-cha-shu-lcof.md)

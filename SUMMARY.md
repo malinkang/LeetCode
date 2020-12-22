@@ -94,7 +94,7 @@
 
 * [32 - II.从上到下打印二叉树 II](lcof/32-ii.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.md)
 
-* [33.二叉搜索树的后序遍历序列](33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.md)
+* [33.二叉搜索树的后序遍历序列](lcof/33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.md)
 
 * [35.复杂链表的复制](lcof/35.fu-za-lian-biao-de-fu-zhi-lcof.md)
 
