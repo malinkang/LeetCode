@@ -98,6 +98,8 @@
 
 * [35.复杂链表的复制](lcof/35.fu-za-lian-biao-de-fu-zhi-lcof.md)
 
+* [42.连续子数组的最大和](lcof/42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.md)
+
 * [50.第一个只出现一次的字符](lcof/50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
 
 * [52.两个链表的第一个公共节点](lcof/52. liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.md)

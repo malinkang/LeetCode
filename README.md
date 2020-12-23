@@ -61,3 +61,6 @@
 
 * [51.N 皇后](51.n-queens.md)
 
+## 动态规划
+
+* [剑指Offer 42.连续子数组的最大和](lcof/42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.md)
