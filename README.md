@@ -5,6 +5,7 @@
 * [11.盛最多水的容器](11.container-with-most-water.md)
 * [26.删除排序数组中的重复项](26.remove-duplicates-from-sorted-array.md)
 * [66.加一](66.plus-one.md)
+* [830. 较大分组的位置](830.positions-of-large-groups)
 
 ### 二维数组
 
