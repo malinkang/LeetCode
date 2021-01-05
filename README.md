@@ -5,6 +5,11 @@
 * [11.盛最多水的容器](11.container-with-most-water.md)
 * [26.删除排序数组中的重复项](26.remove-duplicates-from-sorted-array.md)
 * [66.加一](66.plus-one.md)
+
+### 二维数组
+
+* [48.旋转图像](48.rotate-image.md)
+
 * [剑指 Offer 29.顺时针打印矩阵](lcof/29.shun-shi-zhen-da-yin-ju-zhen-lcof.md)
 
 ## 栈
