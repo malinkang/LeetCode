@@ -2,9 +2,20 @@
 
 ## 数组
 
+### 双指针
+
+
+
 * [11.盛最多水的容器](11.container-with-most-water.md)
+
+* [21.调整数组顺序使奇数位于偶数前面](lcof/21.tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md)
+
+  
+
 * [26.删除排序数组中的重复项](26.remove-duplicates-from-sorted-array.md)
+
 * [66.加一](66.plus-one.md)
+
 * [830. 较大分组的位置](830.positions-of-large-groups)
 
 ### 二维数组
@@ -18,6 +29,10 @@
 * [20.有效的括号](20.valid-parentheses.md)
 
 ## 队列
+
+* [剑指 Offer 09.用两个栈实现队列](lcof/9.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md)
+
+
 
 ## 链表
 
@@ -70,3 +85,4 @@
 ## 动态规划
 
 * [剑指Offer 42.连续子数组的最大和](lcof/42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.md)
+* [剑指Offer 63. 股票的最大利润](lcof/63.gu-piao-de-zui-da-li-run-lcof.md)

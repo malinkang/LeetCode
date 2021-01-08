@@ -64,6 +64,8 @@
 
 * [07.重建二叉树](lcof/07.chong-jian-er-cha-shu-lcof.md)
 
+* [09.用两个栈实现队列](lcof/9.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md)
+
 * [10- I.斐波那契数列](lcof/10-i.fei-bo-na-qi-shu-lie-lcof.md)
 
 * [10- II.青蛙跳台阶问题](lcof/10-ii.qing-wa-tiao-tai-jie-wen-ti-lcof.md)
@@ -113,6 +115,8 @@
 * [55 - I.二叉树的深度](lcof/55-i.er-cha-shu-de-shen-du-lcof.md)
 
 * [55 - II.平衡二叉树](lcof/55-ii.ping-heng-er-cha-shu-lcof.md)
+
+* [63. 股票的最大利润](lcof/63.gu-piao-de-zui-da-li-run-lcof.md)
 
   
 
