@@ -40,6 +40,7 @@
 * [141.环形链表](141.linked-list-cycle.md)
 * [206.反转链表](206.reverse-linked-list.md)
 * [剑指 Offer 18.删除链表的节点](lcof/18.shan-chu-lian-biao-de-jie-dian-lcof.md)
+* [剑指 Offer 25. 合并两个排序的链表点](lcof/25.-he-bing-liang-ge-pai-xu-de-lian-biao.md)
 * [剑指 Offer 22.链表中倒数第k个节点](lcof/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
 * [剑指 Offer 35.复杂链表的复制](lcof/35.fu-za-lian-biao-de-fu-zhi-lcof.md)
 * [剑指 Offer 52.两个链表的第一个公共节点](lcof/52.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.md)
