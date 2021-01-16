@@ -4,10 +4,10 @@
 
 ### 双指针
 
-* [11.盛最多水的容器](https://github.com/malinkang/LeetCode/tree/6a1e6243ec91a027f8646febf1ac6e4972b61efe/11.container-with-most-water.md)
+
+
 * [21.调整数组顺序使奇数位于偶数前面](lcof/21.tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md)
 * [26.删除排序数组中的重复项](26.remove-duplicates-from-sorted-array.md)
-* [66.加一](66.plus-one.md)
 * [830. 较大分组的位置](https://github.com/malinkang/LeetCode/tree/6a1e6243ec91a027f8646febf1ac6e4972b61efe/830.positions-of-large-groups)
 
 * [3.无重复字符的最长子串](3.longest-substring-without-repeating-characters.md)
@@ -21,8 +21,7 @@
 * [51.N 皇后](51.n-queens.md)
 * [66.加一](66.plus-one.md)
 * [67.二进制求和](67.add-binary.md)
-* [118.杨辉三角](118.pascals-triangle.md)
-* [119.杨辉三角 II](119.pascals-triangle-ii.md)
+* 
 * [169.多数元素](169.majority-element.md)
 * [202.快乐数](202.happy-number.md)
 * [217.存在重复元素](217.contains-duplicate.md)
