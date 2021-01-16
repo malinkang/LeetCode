@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
+
 * 数组
+
   * [03.数组中重复的数字](array/03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
   * [11.盛最多水的容器](array/11.container-with-most-water.md)
   * [26.删除排序数组中的重复项](array/26.remove-duplicates-from-sorted-array.md)
@@ -9,7 +11,9 @@
   * [88.合并两个有序数组](array/88.merge-sorted-array.md)
   * [剑指 Offer 29.顺时针打印矩阵](tree/29.-shun-shi-zhen-da-yin-ju-zhen.md)
   * [剑指 Offer 21.调整数组顺序使奇数位于偶数前面](lcof/21.tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md)
+
 * [链表](linked-list/README.md)
+  
   * [剑指 Offer 18.删除链表的节点](linked-list/18.shan-chu-lian-biao-de-jie-dian-lcof.md)
   * [19.删除链表的倒数第N个节点](linked-list/19.remove-nth-node-from-end-of-list.md)
   * [83.删除排序链表中的重复元素](linked-list/83.remove-duplicates-from-sorted-list.md)
@@ -24,9 +28,11 @@
   * [剑指 Offer 22.链表中倒数第k个节点](linked-list/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
   * [剑指 Offer 35.复杂链表的复制](linked-list/35.fu-za-lian-biao-de-fu-zhi-lcof.md)
   * [剑指 Offer 52.两个链表的第一个公共节点](linked-list/52.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.md)
+  
 * 栈
   * [剑指 Offer 09.用两个栈实现队列](stack/9.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md)
   * [20.有效的括号](stack/20.valid-parentheses.md)
+  
 * [树](tree/README.md)
   * [94. 二叉树的中序遍历](tree/94.binary-tree-inorder-traversal.md)
   * [144. 二叉树的前序遍历](tree/144.binary-tree-preorder-traversal.md)
@@ -45,7 +51,9 @@
   * [剑指 Offer 54. 二叉搜索树的第k大节点](tree/54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
   * [剑指 Offer 55 - I. 二叉树的深度](tree/55-i.er-cha-shu-de-shen-du-lcof.md)
   * [剑指 Offer 55 - II. 平衡二叉树](tree/55-ii.ping-heng-er-cha-shu-lcof.md)
+  
 * 二分查找
+
   * [34.在排序数组中查找元素的第一个和最后一个位置](binary-search/34.find-first-and-last-position-of-element-in-sorted-array.md)
   * [35.搜索插入位置](binary-search/35.search-insert-position.md)
   * [167.两数之和 II - 输入有序数组](binary-search/167.two-sum-ii-input-array-is-sorted.md)
@@ -53,51 +61,33 @@
   * [744. 寻找比目标字母大的最小字母](binary-search/744.find-smallest-letter-greater-than-target.md)
   * [剑指 Offer 11. 旋转数组的最小数字](binary-search/11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.md)
   * [剑指 Offer 53 - II. 0～n-1中缺失的数字](binary-search/53-ii.que-shi-de-shu-zi-lcof.md)
+
 * 哈希表
+
   * [1.两数之和](hash-table/1.two-sum.md)
+  * [50.第一个只出现一次的字符](hash-table/50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
+
 * 位运算
+
   * [15.二进制中1的个数](bit-manipulation/15.er-jin-zhi-zhong-1de-ge-shu-lcof.md)
+  * [16.数值的整数次方](bit-manipulation/16.shu-zhi-de-zheng-shu-ci-fang-lcof.md)
+
 * 递归
+
   * [70.爬楼梯](recursion/70.climbing-stairs.md)
   * [剑指 Offer 10- I.斐波那契数列](recursion/10-i.fei-bo-na-qi-shu-lie-lcof.md)
   * [剑指 Offer 10- II.青蛙跳台阶问题](recursion/10-ii.qing-wa-tiao-tai-jie-wen-ti-lcof.md)
+
 * 动态规划
+
   * [剑指 Offer 42.连续子数组的最大和](dynamic-programming/42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.md)
   * [63. 股票的最大利润](dynamic-programming/63.gu-piao-de-zui-da-li-run-lcof.md)
-* [3.无重复字符的最长子串](3.longest-substring-without-repeating-characters.md)
-* [6.Z 字形变换](6.zigzag-conversion.md)
-* [7.整数反转](7.reverse-integer.md)
-* [9.回文数](9.palindrome-number.md)
-* [13.罗马数字转整数](13.roman-to-integer.md)
-* [14.最长公共前缀](14.longest-common-prefix.md)
-* [27.移除元素](27.remove-element.md)
-* [38.外观数列](38.count-and-say.md)
-* [51.N 皇后](51.n-queens.md)
-* [66.加一](66.plus-one.md)
-* [67.二进制求和](67.add-binary.md)
-* [118.杨辉三角](118.pascals-triangle.md)
-* [119.杨辉三角 II](119.pascals-triangle-ii.md)
-* [169.多数元素](169.majority-element.md)
-* [202.快乐数](202.happy-number.md)
-* [217.存在重复元素](217.contains-duplicate.md)
-* [219.存在重复元素 II](219.contains-duplicate-ii.md)
-* 
-* [344.反转字符串](344.reverse-string.md)
-* [345.反转字符串中的元音字母](345.reverse-vowels-of-a-string.md)
-* [349. 两个数组的交集](349.intersection-of-two-arrays.md)
-* [744. 寻找比目标字母大的最小字母](744.find-smallest-letter-greater-than-target.md)
-* [836.矩形重叠](836.rectangle-overlap.md)
-* [844. 比较含退格的字符串](backspace-string-compare.md)
-* [1103.分糖果 II](1103.distribute-candies-to-people.md)
-* [1160.拼写单词](1160.find-words-that-can-be-formed-by-characters.md)
 
-## 剑指 Offer <a id="lcof"></a>
+* 数学
 
-
-
-* [16.数值的整数次方](lcof/16.shu-zhi-de-zheng-shu-ci-fang-lcof.md)
-* [17. 打印从1到最大的n位数](lcof/17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.md)
-* [50.第一个只出现一次的字符](lcof/50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
+  * [17. 打印从1到最大的n位数](math/17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.md)
 
   
+
+
 
