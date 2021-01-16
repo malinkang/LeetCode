@@ -24,21 +24,7 @@
 
 * [剑指 Offer 29.顺时针打印矩阵](lcof/29.shun-shi-zhen-da-yin-ju-zhen-lcof.md)
 
-## 栈
 
-* [20.有效的括号](20.valid-parentheses.md)
-
-## 队列
-
-* [剑指 Offer 09.用两个栈实现队列](lcof/9.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md)
-
-
-
-## 
-
-## 树
-
-* 
 
 ## 二分查找
 

@@ -14,6 +14,9 @@
   * [剑指 Offer 22.链表中倒数第k个节点](linked-list/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
   * [剑指 Offer 35.复杂链表的复制](linked-list/35.fu-za-lian-biao-de-fu-zhi-lcof.md)
   * [剑指 Offer 52.两个链表的第一个公共节点](linked-list/52.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.md)
+* 栈
+  * [剑指 Offer 09.用两个栈实现队列](stack/9.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md)
+  * [20.有效的括号](stack/20.valid-parentheses.md)
 * 树
   * [94. 二叉树的中序遍历](tree/94.binary-tree-inorder-traversal.md)
   * [144. 二叉树的前序遍历](tree/144.binary-tree-preorder-traversal.md)
