@@ -1,22 +1,18 @@
 # Table of contents
 
 * [Introduction](README.md)
-
-* 数组
-
+* [数组](array/README.md)
   * [剑指 Offer 03.数组中重复的数字](array/03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
-  * [剑指 Offer 21.调整数组顺序使奇数位于偶数前面](lcof/21.tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md)
-  * [剑指 Offer 29.顺时针打印矩阵](tree/29.-shun-shi-zhen-da-yin-ju-zhen.md)
+  * [剑指 Offer 21.调整数组顺序使奇数位于偶数前面](array/jian-zhi-offer-21.-tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian.md)
+  * [剑指 Offer 29.顺时针打印矩阵](array/jian-zhi-offer-29.-shun-shi-zhen-da-yin-ju-zhen.md)
   * [11.盛最多水的容器](array/11.container-with-most-water.md)
   * [26.删除排序数组中的重复项](array/26.remove-duplicates-from-sorted-array.md)
-  * [66.加一](66.plus-one.md)
+  * [66.加一](array/66.-jia-yi.md)
   * [48.旋转图像](array/48.rotate-image.md)
   * [88.合并两个有序数组](array/88.merge-sorted-array.md)
   * [118.杨辉三角](array/118.pascals-triangle.md)
   * [119.杨辉三角 II](array/119.pascals-triangle-ii.md)
-
 * [链表](linked-list/README.md)
-  
   * [剑指 Offer 06.从尾到头打印链表](linked-list/06.cong-wei-dao-tou-da-yin-lian-biao.md)
   * [剑指 Offer 18.删除链表的节点](linked-list/18.shan-chu-lian-biao-de-jie-dian-lcof.md)
   * [剑指 Offer 22.链表中倒数第k个节点](linked-list/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
@@ -30,14 +26,11 @@
   * [237.删除链表中的节点](linked-list/237.delete-node-in-a-linked-list.md)
   * [141.环形链表](linked-list/141.linked-list-cycle.md)
   * [206.反转链表](linked-list/206.reverse-linked-list.md)
-  * [2.两数相加](2.add-two-numbers.md)
-  
-* 栈
+  * [2.两数相加](linked-list/2.-liang-shu-xiang-jia.md)
+* [栈](stack/README.md)
   * [剑指 Offer 09.用两个栈实现队列](stack/9.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md)
   * [20.有效的括号](stack/20.valid-parentheses.md)
-  
 * [树](tree/README.md)
-  
   * [剑指 Offer 07.重建二叉树](tree/07.chong-jian-er-cha-shu-lcof.md)
   * [剑指 Offer 26.树的子结构](tree/26.shu-de-zi-jie-gou-lcof.md)
   * [剑指 Offer 27. 二叉树的镜像](tree/27.er-cha-shu-de-jing-xiang-lcof.md)
@@ -55,9 +48,7 @@
   * [102.二叉树的层序遍历](tree/102.binary-tree-level-order-traversal.md)
   * [107.二叉树的层次遍历 II](tree/107.binary-tree-level-order-traversal-ii.md)
   * [226. 翻转二叉树](tree/226.invert-binary-tree.md)
-  
-* 二分查找
-
+* [二分查找](binary-search/README.md)
   * [剑指 Offer 11. 旋转数组的最小数字](binary-search/11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.md)
   * [剑指 Offer 53 - II. 0～n-1中缺失的数字](binary-search/53-ii.que-shi-de-shu-zi-lcof.md)
   * [34.在排序数组中查找元素的第一个和最后一个位置](binary-search/34.find-first-and-last-position-of-element-in-sorted-array.md)
@@ -65,34 +56,19 @@
   * [167.两数之和 II - 输入有序数组](binary-search/167.two-sum-ii-input-array-is-sorted.md)
   * [704.二分查找](binary-search/704.binary-search.md)
   * [744. 寻找比目标字母大的最小字母](binary-search/744.find-smallest-letter-greater-than-target.md)
-  * 
-
-* 哈希表
-
+* [哈希表](hash-table/README.md)
   * [1.两数之和](hash-table/1.two-sum.md)
   * [50.第一个只出现一次的字符](hash-table/50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
-
-* 位运算
-
+* [位运算](bit-manipulation/README.md)
   * [15.二进制中1的个数](bit-manipulation/15.er-jin-zhi-zhong-1de-ge-shu-lcof.md)
   * [16.数值的整数次方](bit-manipulation/16.shu-zhi-de-zheng-shu-ci-fang-lcof.md)
-
-* 递归
-
+* [递归](recursion/README.md)
   * [剑指 Offer 10- I.斐波那契数列](recursion/10-i.fei-bo-na-qi-shu-lie-lcof.md)
   * [剑指 Offer 10- II.青蛙跳台阶问题](recursion/10-ii.qing-wa-tiao-tai-jie-wen-ti-lcof.md)
   * [70.爬楼梯](recursion/70.climbing-stairs.md)
-
-* 动态规划
-
+* [动态规划](dynamic-programming/README.md)
   * [剑指 Offer 42.连续子数组的最大和](dynamic-programming/42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.md)
   * [63. 股票的最大利润](dynamic-programming/63.gu-piao-de-zui-da-li-run-lcof.md)
-
-* 数学
-
+* [数学](math/README.md)
   * [17. 打印从1到最大的n位数](math/17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.md)
-
-  
-
-
 
