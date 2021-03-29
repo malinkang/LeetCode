@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [排序](pai-xu.md)
 * [数组](array/README.md)
   * [剑指 Offer 03.数组中重复的数字](array/03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
   * [剑指 Offer 21.调整数组顺序使奇数位于偶数前面](array/jian-zhi-offer-21.-tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian.md)
