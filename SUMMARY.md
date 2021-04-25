@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [排序](sort.md)
+* [排序](pai-xu.md)
 * [数组](array/README.md)
   * [11.盛最多水的容器](array/11.container-with-most-water.md)
   * [26.删除排序数组中的重复项](array/26.remove-duplicates-from-sorted-array.md)
