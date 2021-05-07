@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="Java" %}
-```text
+```java
     int[] bubbleSort(int[] nums){
         int len = nums.length;
         //i是趟数，一共需要 len - 1 趟 因为从0开始所以 
@@ -20,10 +20,6 @@
         return nums;
     }
 ```
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
 {% endtab %}
 {% endtabs %}
 
