@@ -26,6 +26,7 @@
 * [链表（20）](linked-list/README.md)
   * [2.两数相加](linked-list/2.add-two-numbers.md)
   * [19.删除链表的倒数第N个节点](linked-list/19.remove-nth-node-from-end-of-list.md)
+  * [21. 合并两个有序链表](linked-list/21.merge-two-sorted-lists.md)
   * [23.合并K个升序链表](linked-list/23.merge-k-sorted-lists.md)
   * [24.两两交换链表中的节点](linked-list/24.swap-nodes-in-pairs.md)
   * [61.旋转链表](linked-list/61.rotate-list.md)
@@ -42,9 +43,7 @@
   * [剑指 Offer 06.从尾到头打印链表](linked-list/06.cong-wei-dao-tou-da-yin-lian-biao.md)
   * [剑指 Offer 18.删除链表的节点](linked-list/18.shan-chu-lian-biao-de-jie-dian-lcof.md)
   * [剑指 Offer 22.链表中倒数第k个节点](linked-list/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
-  * [剑指 Offer 25.合并两个排序的链表点](linked-list/25.he-bing-liang-ge-pai-xu-de-lian-biao.md)
   * [剑指 Offer 35.复杂链表的复制](linked-list/35.fu-za-lian-biao-de-fu-zhi-lcof.md)
-  * 
 * [树（17）](tree/README.md)
   * [144. 二叉树的前序遍历](tree/144.binary-tree-preorder-traversal.md)
   * [94. 二叉树的中序遍历](tree/94.binary-tree-inorder-traversal.md)
