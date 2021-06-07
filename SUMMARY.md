@@ -21,6 +21,7 @@
 * [队列&栈（4）](queue-stack/README.md)
   * [剑指 Offer 09.用两个栈实现队列](queue-stack/9.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md)
   * [20.有效的括号](queue-stack/20.valid-parentheses.md)
+  * [155.最小栈](queue-stack/155.min-stack.md)
   * [232.用栈实现队列](queue-stack/232.implement-queue-using-stacks.md)
   * [844. 比较含退格的字符串](queue-stack/844.backspace-string-compare.md)
 * [链表（20）](linked-list/README.md)
