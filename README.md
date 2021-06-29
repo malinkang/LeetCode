@@ -4,4 +4,5 @@
 * [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/)
 * [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 * [OI Wiki](https://oi-wiki.org/)
+* [力扣加加](https://leetcode-solution.cn/)
 

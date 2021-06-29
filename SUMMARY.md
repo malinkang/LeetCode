@@ -41,6 +41,7 @@
   * [141.环形链表](linked-list/141.linked-list-cycle.md)
   * [142.环形链表 II](linked-list/142.linked-list-cycle-ii.md)
   * [143. 重排链表](linked-list/143.reorder-list.md)
+  * [147. 对链表进行插入排序](linked-list/147.insertion-sort-list.md)
   * [160. 相交链表](linked-list/160.intersection-of-two-linked-lists.md)
   * [206.反转链表](linked-list/206.reverse-linked-list.md)
   * [203.移除链表元素](linked-list/203.remove-linked-list-elements.md)
