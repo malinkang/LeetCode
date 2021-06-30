@@ -96,7 +96,7 @@
   * [344.反转字符串](string/344.reverse-string.md)
   * [345.反转字符串中的元音字母](string/345.reverse-vowels-of-a-string.md)
 * [位运算（2）](bit-manipulation/README.md)
-  * [15.二进制中1的个数](bit-manipulation/15.er-jin-zhi-zhong-1de-ge-shu-lcof.md)
+  * [191.位1的个数](bit-manipulation/191.number-of-1-bits.md)
   * [16.数值的整数次方](bit-manipulation/16.shu-zhi-de-zheng-shu-ci-fang-lcof.md)
 * [递归（3）](recursion/README.md)
   * [剑指 Offer 10- I.斐波那契数列](recursion/10-i.fei-bo-na-qi-shu-lie-lcof.md)
