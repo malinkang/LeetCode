@@ -48,6 +48,7 @@
   * [234.回文链表](linked-list/234.palindrome-linked-list.md)
   * [237.删除链表中的节点](linked-list/237.delete-node-in-a-linked-list.md)
   * [445. 两数相加 II](linked-list/445.add-two-numbers-ii.md)
+  * [1721.交换链表中的节点](linked-list/1721.swapping-nodes-in-a-linked-list.md)
   * [剑指 Offer 06.从尾到头打印链表](linked-list/06.cong-wei-dao-tou-da-yin-lian-biao.md)
   * [剑指 Offer 18.删除链表的节点](linked-list/18.shan-chu-lian-biao-de-jie-dian-lcof.md)
   * [剑指 Offer 22.链表中倒数第k个节点](linked-list/22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
