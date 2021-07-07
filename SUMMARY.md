@@ -60,6 +60,7 @@
   * [589. N叉树的前序遍历](tree/589.n-ary-tree-preorder-traversal.md)
   * [101. 对称二叉树](tree/101.symmetric-tree.md)
   * [102.二叉树的层序遍历](tree/102.binary-tree-level-order-traversal.md)
+  * [104.二叉树的最大深度](tree/104.maximum-depth-of-binary-tree.md)
   * [107.二叉树的层次遍历 II](tree/107.binary-tree-level-order-traversal-ii.md)
   * [114.二叉树展开为链表](tree/114.flatten-binary-tree-to-linked-list.md)
   * [199.二叉树的右视图](tree/199.binary-tree-right-side-view.md)
@@ -72,7 +73,7 @@
   * [剑指 Offer 32 - II.从上到下打印二叉树 II](tree/32-ii.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.md)
   * [剑指 Offer 33.二叉搜索树的后序遍历序列](tree/33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.md)
   * [剑指 Offer 54. 二叉搜索树的第k大节点](tree/54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.md)
-  * [剑指 Offer 55 - I. 二叉树的深度](tree/55-i.er-cha-shu-de-shen-du-lcof.md)
+  * 
   * [剑指 Offer 55 - II. 平衡二叉树](tree/55-ii.ping-heng-er-cha-shu-lcof.md)
 * [二分查找（7）](binary-search/README.md)
   * [剑指 Offer 11. 旋转数组的最小数字](binary-search/11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.md)
