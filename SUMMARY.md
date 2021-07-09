@@ -9,6 +9,7 @@
   * [15. 三数之和](array/15.3sum.md)
   * [26.删除排序数组中的重复项](array/26.remove-duplicates-from-sorted-array.md)
   * [27.移除元素](array/27.remove-element.md)
+  * [31.下一个排列](array/31.next-permutation.md)
   * [48.旋转图像](array/48.rotate-image.md)
   * [66.加一](array/66.plus-one.md)
   * [88.合并两个有序数组](array/88.merge-sorted-array.md)
