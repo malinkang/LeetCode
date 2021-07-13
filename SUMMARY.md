@@ -85,6 +85,7 @@
   * [704.二分查找](binary-search/704.binary-search.md)
   * [744. 寻找比目标字母大的最小字母](binary-search/744.find-smallest-letter-greater-than-target.md)
 * [哈希表（3）](hash-table/README.md)
+  * [49.字母异位词分组](hash-table/49.group-anagrams.md)
   * [50.第一个只出现一次的字符](hash-table/50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
   * [217.存在重复元素](hash-table/217.contains-duplicate.md)
   * [219.存在重复元素 II](hash-table/219.contains-duplicate-ii.md)
