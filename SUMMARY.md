@@ -79,6 +79,7 @@
 * [二分查找（7）](binary-search/README.md)
   * [剑指 Offer 11. 旋转数组的最小数字](binary-search/11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.md)
   * [剑指 Offer 53 - II. 0～n-1中缺失的数字](binary-search/53-ii.que-shi-de-shu-zi-lcof.md)
+  * [33.搜索旋转排序数组](binary-search/33.search-in-rotated-sorted-array.md)
   * [34.在排序数组中查找元素的第一个和最后一个位置](binary-search/34.find-first-and-last-position-of-element-in-sorted-array.md)
   * [35.搜索插入位置](binary-search/35.search-insert-position.md)
   * [167.两数之和 II - 输入有序数组](binary-search/167.two-sum-ii-input-array-is-sorted.md)
