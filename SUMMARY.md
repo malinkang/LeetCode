@@ -16,6 +16,7 @@
   * [118.杨辉三角](array/118.pascals-triangle.md)
   * [119.杨辉三角 II](array/119.pascals-triangle-ii.md)
   * [169.多数元素](array/169.majority-element.md)
+  * [283.移动零](array/283.move-zeroes.md)
   * [349. 两个数组的交集](array/349.intersection-of-two-arrays.md)
   * [448.找到所有数组中消失的数字](array/448.find-all-numbers-disappeared-in-an-array.md)
   * [830. 较大分组的位置](array/830.positions-of-large-groups.md)
