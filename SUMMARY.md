@@ -103,6 +103,7 @@
 * [位运算（2）](bit-manipulation/README.md)
   * [191.位1的个数](bit-manipulation/191.number-of-1-bits.md)
   * [16.数值的整数次方](bit-manipulation/16.shu-zhi-de-zheng-shu-ci-fang-lcof.md)
+  * [268.丢失的数字](bit-manipulation/268.missing-number.md)
 * [递归（3）](recursion/README.md)
   * [剑指 Offer 10- I.斐波那契数列](recursion/10-i.fei-bo-na-qi-shu-lie-lcof.md)
   * [剑指 Offer 10- II.青蛙跳台阶问题](recursion/10-ii.qing-wa-tiao-tai-jie-wen-ti-lcof.md)
