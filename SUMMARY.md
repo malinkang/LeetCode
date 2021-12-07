@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [排序（1）](sort/README.md)
+  * [冒泡排序](sort/bubble-sort.md)
   * [插入排序](sort/insertion-sort.md)
   * [Page 2](sort/page-2.md)
-  * [冒泡排序](sort/bubble-sort.md)
 * [数组（16）](array/README.md)
   * [1.两数之和](array/1.two-sum.md)
   * [11.盛最多水的容器](array/11.container-with-most-water.md)
