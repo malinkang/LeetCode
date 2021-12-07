@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [排序（1）](sort/README.md)
+  * [插入排序](sort/insertion-sort.md)
+  * [Page 2](sort/page-2.md)
   * [冒泡排序](sort/bubble-sort.md)
 * [数组（16）](array/README.md)
   * [1.两数之和](array/1.two-sum.md)
@@ -91,7 +93,7 @@
   * [50.第一个只出现一次的字符](hash-table/50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
   * [217.存在重复元素](hash-table/217.contains-duplicate.md)
   * [219.存在重复元素 II](hash-table/219.contains-duplicate-ii.md)
-* 字符串（8）
+* [字符串（8）](zi-fu-chuan-8/README.md)
   * [3.无重复字符的最长子串](string/3.longest-substring-without-repeating-characters.md)
   * [6.Z 字形变换](string/6.zigzag-conversion.md)
   * [13.罗马数字转整数](string/13.roman-to-integer.md)
@@ -108,7 +110,7 @@
   * [剑指 Offer 10- I.斐波那契数列](recursion/10-i.fei-bo-na-qi-shu-lie-lcof.md)
   * [剑指 Offer 10- II.青蛙跳台阶问题](recursion/10-ii.qing-wa-tiao-tai-jie-wen-ti-lcof.md)
   * [70.爬楼梯](recursion/70.climbing-stairs.md)
-* 回溯（1）
+* [回溯（1）](hui-su-1/README.md)
   * [51.N 皇后](backtracking/51.n-queens.md)
 * [动态规划（2）](dynamic-programming/README.md)
   * [剑指 Offer 42.连续子数组的最大和](dynamic-programming/42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.md)
@@ -119,4 +121,3 @@
   * [17. 打印从1到最大的n位数](math/17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.md)
   * [836.矩形重叠](math/836.rectangle-overlap.md)
   * [1103.分糖果 II](math/1103.distribute-candies-to-people.md)
-
