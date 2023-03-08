@@ -35,7 +35,7 @@
 * [链表（21）](linked-list/README.md)
   * [2.两数相加](linked-list/2.add-two-numbers.md)
   * [19.删除链表的倒数第N个节点](linked-list/19.remove-nth-node-from-end-of-list.md)
-  * [21. 合并两个有序链表](linked-list/21.merge-two-sorted-lists.md)
+  * [21.合并两个有序链表](linked-list/21.merge-two-sorted-lists.md)
   * [23.合并K个升序链表](linked-list/23.merge-k-sorted-lists.md)
   * [24.两两交换链表中的节点](linked-list/24.swap-nodes-in-pairs.md)
   * [61.旋转链表](linked-list/61.rotate-list.md)

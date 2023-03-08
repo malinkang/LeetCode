@@ -5,4 +5,6 @@
 * [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 * [OI Wiki](https://oi-wiki.org/)
 * [力扣加加](https://leetcode-solution.cn/)
+* [Hello 算法](https://www.hello-algo.com/)
+* [股票问题系列通解（转载翻译）](https://leetcode.cn/circle/article/qiAgHn/)
 
